@@ -2,11 +2,11 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/mathkruger/litefy)
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[![Open Source Helpers](https://www.codetriage.com/mathkruger/litefy/badges/users.svg)](https://www.codetriage.com/mathkruger/litefy)
+[![Open Source Helpers](https://www.codetriage.com/mathkruger/litefy/badges/users.svg)](https://mylitefy-malieknews.vercel.app/#/login)
 
-Wanna support me? <a href="https://www.buymeacoffee.com/mathkruger">Buy me a coffee!</a>
+Wanna support me? <a href="https://mylitefy-malieknews.vercel.app/#/login">Buy me a coffee!</a>
 
-# Litefy
+# Litefy By Maliek Galant
 
 A lightweight Spotify client for low-end smartphones (KaiOS included [not yet]) and computers.
 The project is being designed with Angular 10, using the [Spotify API](https://developer.spotify.com/documentation/web-api/reference-beta/) and [Web Playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/quick-start/).
